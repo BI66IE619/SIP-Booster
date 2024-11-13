@@ -56,7 +56,7 @@ namespace IdleMasterExtended
                 }
 
                 mainForm.DisableCardDropCheckTimer();
-                mainForm.UpdateStateInfo();
+                mainForm.RefreshGamesAndCardsRemaining();
             }
             else
             {
