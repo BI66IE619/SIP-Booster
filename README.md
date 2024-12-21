@@ -1,12 +1,12 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/96wf12emnlbmo4sj?svg=true)](https://ci.appveyor.com/project/JonasNilson/idle-master-extended)
 ![Github All Releases](https://img.shields.io/github/downloads/JonasNilson/idle_master_extended/total.svg)
 
-# 🚀 Idle Master Extended
+# 🚀 Steam-Idle-Playtime-Booster
 
 Get your [Steam Trading Cards](https://steamcommunity.com/tradingcards/) the quickest possible way.
 
 
-## ❓ But what is Idle Master Extended?
+## ❓ But what is Steam Idle Playtime Booster (SIP-Booster)?
 
 🔧 This is a recreation of the **discontinued** [Idle Master](https://github.com/jshackles/idle_master) project by [jshackles](https://github.com/jshackles) (also known for [Enhanced Steam](https://github.com/jshackles/Enhanced_Steam)):
 
